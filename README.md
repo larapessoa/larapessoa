@@ -1,4 +1,8 @@
-### Hi there 👋
+### **lara pessoa**
+### 3 ano B - tecnologia
+![](https://github.com/larapessoa/larapessoa/assets/170112588/91561dfe-2be1-4f2b-8371-d3192568dd67)
+
+
 
 <!--
 **larapessoa/larapessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
